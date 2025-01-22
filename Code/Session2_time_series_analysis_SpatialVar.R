@@ -4,6 +4,12 @@ library(viridis)
 library(rasterdiv) # Information theory based calculus
 library(lattice) # for levelplots
 
+library(terra)
+library(imageRy)
+library(ggridges) # for ridgeline plots
+library(ggplot2) # for ridgeline plots
+library(viridis) # for ridgeline plots
+
 im.list()
 
 #First part ----
