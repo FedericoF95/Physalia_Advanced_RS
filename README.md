@@ -1,6 +1,6 @@
 # Physalia_Advanced_RS
 
-Repo with code from Physalia Advanced RS course
+Repo with code developed during the course "Physalia - Advanced Remote Sensing in R"
 
 ## Expected take home message
 
